@@ -7,6 +7,8 @@ public class pi2 {
 		System.out.print("Ca marche, blaireau !");
 		System.out.print("Je suis pas sûr de moi par contre !");
 		System.out.print("Ferme bien ta guele stp !");
+		System.out.print("On peut secher les cours? !");
+
 
 	}
 
